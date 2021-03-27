@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+.top {
+    background-color: rgb(32, 177, 104);
+    padding: 10px;
+}
+
+.main {
+    max-width:80%;
+    margin: auto;
+    margin-top: 2%;
+    padding: 1%;
+    border: 5px solid rgb(74, 146, 255);
+}
+
+.rev {
+    border: 5px solid red;
+    padding: 1%;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    max-width:95%;
+}
+
+.but {
+    background-color: red;
+    color: white;
+    float: right;
+}
